@@ -21,14 +21,14 @@
 ### Instructions and Assumptions:
 
 * Git and GitHub repo with all members of the group 
-####  -Timothy:
-####  -Veronika:
-####  -Konstantin:
+####  -Timothy: https://github.com/timgwilt
+####  -Veronika: https://github.com/paramovv
+####  -Konstantin: https://github.com/Snajjper1
   
 * A Trello board with the user stories and all members of the group included
-  ![Trello Bord](src/main/resources/Trello.png "Title")
+  ![Trello Bord](src/main/resources/Trello.png)
 * Maven project
-  ![Trello Bord](src/main/resources/Maven.png "Title")
+  ![Maven structure](src/main/resources/Maven.png)
 * An AddressBook class, MainRunner class, interfaces, use abstraction if you can!
 * Some fields are optional like (phone, address)
 * Use Interfaces and Methods available or create your own if they don’t exist e.g. (comparable, comparator)
