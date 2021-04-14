@@ -1,6 +1,6 @@
 # Group Assignment
 
-## Group A
+## Group B
 
 ### Team members: **Timothy, Veronika, Konstantin**
 
