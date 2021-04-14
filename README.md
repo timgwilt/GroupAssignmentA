@@ -2,13 +2,15 @@
 
 ## Group A
 
+### Team members: **Timothy, Veronika, Konstantin**
+
 ### Project Summary:
 * A Java console application that manages an address book where the contacts are saved.
 
 ### User Stories:
 
 * As a user, I want to print all available contacts, so that I can view all contacts in a CSV like view ordered ascending by name then surname
-* As a user, I want to add new contact, so that i can increase my contacts list
+* As a user, I want to add new contact, so that I can increase my contacts list
 * As a user, I want to search contacts based on name, so that I can find the appropriate contacts in a short time.
 * As a user, I want to search contacts based on phone numbers, so that I can find the appropriate contacts in a short time.
 * As a user, I want to edit contact based on name, so that I can modify contact information and have updated information.
@@ -18,9 +20,15 @@
 
 ### Instructions and Assumptions:
 
-* Git and GitHub repo with all members of the group
+* Git and GitHub repo with all members of the group 
+####  -Timothy:
+####  -Veronika:
+####  -Konstantin:
+  
 * A Trello board with the user stories and all members of the group included
-* Maven project 
+  ![Trello Bord](src/main/resources/Trello.png "Title")
+* Maven project
+  ![Trello Bord](src/main/resources/Maven.png "Title")
 * An AddressBook class, MainRunner class, interfaces, use abstraction if you can!
 * Some fields are optional like (phone, address)
 * Use Interfaces and Methods available or create your own if they don’t exist e.g. (comparable, comparator)
